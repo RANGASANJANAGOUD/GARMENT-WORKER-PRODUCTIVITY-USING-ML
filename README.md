@@ -5,7 +5,7 @@ Completed this project as part of my Data Science and Machine Learning Internshi
 - Experimented with different Machine Learning algorithms, Linear Regression, Neural Networks, Bagging, and Boosting.
 - Compared the results to recommend the best Regression model. 
 
-COLAB NOTEBOOK LINK:
+COLAB NOTEBOOK LINK:https://github.com/RANGASANJANAGOUD/GARMENT-WORKER-PRODUCTIVITY-USING-ML/tree/main
 
 
-PROJECT PRESENTATION LINK: 
+PROJECT PRESENTATION LINK: https://drive.google.com/file/d/1JsqXFddoX7PH9WfceiUvQ8L4KTKgEkif/view?usp=sharing
